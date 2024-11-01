@@ -2,6 +2,8 @@
 
 🐱热爱猫咪|📷幽默摄影师|🤔对生活充满好奇|🎭喜欢分享趣事|✨记录生活中的小确幸|Feel free to DM me 💌
 
+📧Email: nekonoct@snnetwork.us.kg
+
 ## 统计数据 ✨
 
 ![NekoNoct's GitHub stats](https://github-readme-stats.vercel.app/api?username=NekoNoct&show_icons=true&count_private=true)
