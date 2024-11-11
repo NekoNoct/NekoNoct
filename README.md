@@ -4,7 +4,7 @@
 
 📧Email: nekonoct@snnetwork.us.kg
 
-## 统计数据 ✨
+## 摆烂指数 ✨
 
 ![NekoNoct's GitHub stats](https://github-readme-stats.vercel.app/api?username=NekoNoct&show_icons=true&count_private=true)
 
