@@ -6,9 +6,9 @@
 
 ## 摆烂指数 ✨
 
-![NekoNoct's GitHub stats](https://github-readme-stats.vercel.app/api?username=NekoNoct&show_icons=true&count_private=true)
+[![NekoNoct's GitHub stats](https://github-readme-stats.vercel.app/api?username=NekoNoct&show_icons=true&count_private=true&locale=cn)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NekoNoct)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NekoNoct&locale=cn)]()
 
 ## 依旧在摆烂 😿
 
